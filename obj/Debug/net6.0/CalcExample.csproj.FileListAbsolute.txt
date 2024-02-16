@@ -1,0 +1,14 @@
+E:\others\csharp\CalcExample\CalcExample\bin\Debug\net6.0\CalcExample.exe
+E:\others\csharp\CalcExample\CalcExample\bin\Debug\net6.0\CalcExample.deps.json
+E:\others\csharp\CalcExample\CalcExample\bin\Debug\net6.0\CalcExample.runtimeconfig.json
+E:\others\csharp\CalcExample\CalcExample\bin\Debug\net6.0\CalcExample.dll
+E:\others\csharp\CalcExample\CalcExample\bin\Debug\net6.0\CalcExample.pdb
+E:\others\csharp\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\others\csharp\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.AssemblyInfoInputs.cache
+E:\others\csharp\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.AssemblyInfo.cs
+E:\others\csharp\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.csproj.CoreCompileInputs.cache
+E:\others\csharp\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.dll
+E:\others\csharp\CalcExample\CalcExample\obj\Debug\net6.0\refint\CalcExample.dll
+E:\others\csharp\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.pdb
+E:\others\csharp\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.genruntimeconfig.cache
+E:\others\csharp\CalcExample\CalcExample\obj\Debug\net6.0\ref\CalcExample.dll
